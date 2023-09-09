@@ -4,4 +4,5 @@
     },
     "esModuleInterop": true,
     "allowSyntheticDefaultImports": true,
+    "include": ["src", "index.d.ts"] 
 }
